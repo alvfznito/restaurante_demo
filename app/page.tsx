@@ -2,6 +2,7 @@ import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import About from "@/components/About";
 import Menu from "@/components/Menu";
+import MenuDia from "@/components/MenuDia";
 import Schedule from "@/components/Schedule";
 import Gallery from "@/components/Gallery";
 import Reviews from "@/components/Reviews";
@@ -16,6 +17,7 @@ export default function Home() {
       <Hero />
       <About />
       <Menu />
+      <MenuDia />
       <Schedule />
       <Gallery />
       <Reviews />
