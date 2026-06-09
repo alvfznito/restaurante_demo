@@ -20,7 +20,7 @@ export default function Footer() {
             <br />
             <span className="text-gray-700">
               Web by{" "}
-              <a href="#" className="text-dorado hover:underline">
+              <a href="https://muestrateagency.netlify.app" className="text-dorado hover:underline" target="_blank" rel="noopener noreferrer">
                 MUESTRATE!
               </a>
             </span>
