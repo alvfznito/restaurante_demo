@@ -7,7 +7,7 @@ const dishes = [
       "Selección de las mejores piezas de jamón ibérico 100% bellota, cortado a cuchillo con maestría.",
     price: "18€",
     image:
-      "https://images.unsplash.com/photo-1559628233-100c798642d3?w=600&q=80&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1709790028365-d49ae1e20f53?w=600&q=80&fit=crop&crop=center",
     tag: "Especialidad",
   },
   {
@@ -34,7 +34,7 @@ const dishes = [
       "Tierno secreto ibérico marcado a la brasa de encina, con sal Maldon y romero fresco del jardín.",
     price: "19€",
     image:
-      "https://images.unsplash.com/photo-1544025162-d76538b2ed4e?w=600&q=80&fit=crop&crop=center",
+      "https://images.unsplash.com/photo-1630612662878-fd68afbf8af3?w=600&q=80&fit=crop&crop=center",
     tag: "Especialidad",
   },
   {
